@@ -8,3 +8,14 @@ h1  {
     color: rgb(116, 110, 110);
     text-align: center;
 }
+
+footer {
+    background-color: azure;
+}
+
+footer p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+}
